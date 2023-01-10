@@ -1,0 +1,44 @@
+.image-title-rating {
+  display: flex;
+  flex-direction: row;
+}
+.location-emp-pack {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.loc-emp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.empType-element {
+  padding-right: 20px;
+}
+.each-job-container-element {
+  background-color: #202020;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.title-star {
+  margin-left: 10px;
+  height: 100px;
+}
+.star-color {
+  color: orange;
+}
+.cmp-url {
+  height: 100px;
+  width: 100px;
+}
+.location-icon {
+}
+.link-style {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+  color: #ffffff;
+}

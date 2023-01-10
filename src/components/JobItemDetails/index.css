@@ -1,0 +1,70 @@
+.jobitemdetails-container {
+  background-color: #121212;
+  color: #ffffff;
+  height: 400vh;
+}
+.jobs-items-bg-container {
+  background-color: #202020;
+  margin: 30px;
+  border-radius: 10px;
+  padding: 10px;
+  min-height: 120%;
+}
+.j-image-title-rating {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100px;
+}
+.j-location-empType-package {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.j-title-rating {
+  margin-left: 20px;
+}
+.j-image {
+  height: 60px;
+}
+.j-location-emp {
+  display: flex;
+  flex-direction: row;
+}
+.j-emp {
+  padding-left: 30px;
+}
+.des {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.ul-skills {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.life-at-company {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.des-p {
+  width: 500px;
+  font-size: 18px;
+}
+.life-image {
+  padding-right: 30px;
+}
+.similar-job-container {
+  margin: 30px;
+}

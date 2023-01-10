@@ -1,0 +1,77 @@
+.jobs-container {
+  background-color: #121212;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  min-height: 100vh;
+}
+.empTypeContainer {
+  width: 30%;
+}
+.type-of-EMP {
+  font-size: 20px;
+  padding-left: 5%;
+}
+.ul-emp-type {
+  list-style-type: none;
+
+  padding-left: 5%;
+}
+
+.hr-line {
+  padding-left: 5%;
+  padding-right: 20px;
+}
+.each-job-container {
+  width: 100%;
+  padding: 20px;
+}
+.input-element {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #202020;
+  height: 36px;
+  width: 33%;
+  border: 2px solid grey;
+  border-radius: 4px;
+}
+.input-filed {
+  height: 33px;
+  border-color: none;
+  border: none;
+  outline: none;
+  background-color: #121212;
+  color: #ffffff;
+  width: 98%;
+}
+.search-icon {
+  height: 30px;
+  width: 30px;
+  text-align: center;
+}
+.pf-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  color: grey;
+  padding: 10px;
+  background-size: cover;
+  border-radius: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.jobs-ul-container {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.loader-container {
+  text-align: center;
+}
+.retry-name {
+  text-align: center;
+}
+.job-failure-view {
+  text-align: center;
+}

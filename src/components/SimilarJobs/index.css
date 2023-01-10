@@ -1,0 +1,22 @@
+.s-image-title-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.s-image {
+  width: 70px;
+  padding-right: 20px;
+}
+.similar-jobs-container {
+  background-color: #202020;
+  margin-right: 60px;
+  margin-bottom: 30px;
+  width: 300px;
+  padding: 30px;
+  border-radius: 20px;
+}
+.s-location-emp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
