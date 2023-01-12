@@ -317,7 +317,7 @@ class Jobs extends Component {
               >
                 <AiOutlineSearch
                   className="search-icon"
-                  data-testid="searchButton"
+                
                 />
               </button>
             </div>
